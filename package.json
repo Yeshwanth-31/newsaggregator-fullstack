@@ -1,0 +1,20 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Creating a News Website using only HTML, CSS, and JavaScript is an excellent project for web development enthusiasts. This tutorial guides users through the process of building a dynamic and visually appealing news platform without relying on external frameworks or libraries. Using HTML for content structure, CSS for styling, and JavaScript for interactivity, learners can understand how to fetch and display news articles dynamically.",
+  "main": "script.js",
+  "scripts": {
+  "start": "node backend/server.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.1"
+  }
+}
